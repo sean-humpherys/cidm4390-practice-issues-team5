@@ -1,0 +1,22 @@
+
+/* Shared styling across all pages */
+body {
+    padding-top: 56px;
+}
+
+/* Kenneth Rubin page styling */
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.citation {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
